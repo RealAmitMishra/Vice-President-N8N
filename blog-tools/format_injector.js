@@ -14,19 +14,19 @@ const AUTHOR_LINE = '**By Amit Mishra, Room Service Branding – AI Technology A
 
 const FOOTER_BLOCK = `⸻
 
-**About the Author**
+About the Author
 
 Amit Mishra is a technology analyst and brand strategist at Room Service Branding, specializing in emerging AI technologies and their business applications. With extensive experience in evaluating cutting-edge AI tools and platforms, Amit provides insights that help businesses navigate the rapidly evolving artificial intelligence landscape.
 
 ⸻
 
-**Connect With Me**
+Connect With Me
 
-📱 [TikTok](https://www.tiktok.com) | 📸 [Instagram](https://www.instagram.com) | 🎥 [YouTube](https://www.youtube.com) | 💼 [LinkedIn](https://www.linkedin.com) | 🐦 [Chirp](https://www.chirp.com) | 🌐 [Portfolio](https://www.portfolio.com) | ✍️ [Medium](https://www.medium.com)
+📱 TikTok | 📸 Instagram | 🎥 YouTube | 💼 LinkedIn | 🐦 Chirp | 🌐 Portfolio | ✍️ Medium
 
 ⸻
 
-[Get a passive side hustle for next to nothing](https://www.sidehustle.com)
+Get a passive side hustle for next to nothing
 © 2025 Amit Mishra, Room Service Branding. All rights reserved.`;
 
 /**
